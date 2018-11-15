@@ -1,0 +1,16 @@
+{
+  "title": "API document for golfingBudz",
+  "version": "0.2.0",
+  "url": "https://golfbuzzapp.herokuapp.com",
+  "name": "GolfingBudz-api",
+  "description": "GolfingBudz API",
+  "sampleUrl": false,
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2017-05-30T12:29:04.056Z",
+    "url": "http://apidocjs.com",
+    "version": "0.17.6"
+  }
+}
